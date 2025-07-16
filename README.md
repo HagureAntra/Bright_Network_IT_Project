@@ -1,4 +1,4 @@
-Bright Networks IT Project - Traffic Analysis & Bot Mitigation
+
 
 Overview:
 This project analyzes synthetic server log data to detect suspicious or bot-like traffic patterns, such as high request frequency and non-browser user agents. It flags potential bot IPs and outputs them for further action.
