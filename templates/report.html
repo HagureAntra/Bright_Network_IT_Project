@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Suspicious IP Report</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+      body {
+        background-color: #121212;
+        color: #f0f0f0;
+        font-family: Arial, sans-serif;
+        padding: 2rem;
+      }
+      h1,
+      h2 {
+        color: #ff6b6b;
+      }
+      ul {
+        list-style: none;
+        padding-left: 0;
+      }
+      li {
+        padding: 6px;
+        margin-bottom: 5px;
+        background-color: #1e1e1e;
+        border-left: 5px solid red;
+        color: #ff5c5c;
+        font-weight: bold;
+        box-shadow: 0 2px 4px rgba(255, 0, 0, 0.2);
+      }
+      button {
+        padding: 10px 20px;
+        background-color: #ff6b6b;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        margin-right: 10px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #ff4b4b;
+      }
+      .nav {
+        margin-top: 2rem;
+      }
+      #chart-container {
+        background-color: #1e1e1e;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Suspicious IP Report</h1>
+
+    {% if results %}
+    <div id="chart-container">
+      <h2>Top Suspicious IPs</h2>
+      <canvas id="ipChart"></canvas>
+    </div>
+
+    <ul>
+      {% for ip in results %}
+      <li>{{ ip }}</li>
+      {% endfor %}
+    </ul>
+
+    <div class="nav">
+      <a href="/download/csv"><button>Download CSV File</button></a>
+      <a href="/"><button>Back to Upload</button></a>
+    </div>
+    <script id="ip-data" type="application/json">
+      {{ results|tojson }}
+    </script>
+
+    <script>
+      const ipData = JSON.parse(document.getElementById('ip-data').textContent);
+      const ipCounts = {};
+      ipData.forEach((ip) => {
+        ipCounts[ip] = (ipCounts[ip] || 0) + 1;
+      });
+
+      const labels = Object.keys(ipCounts);
+      const values = Object.values(ipCounts);
+
+      new Chart(document.getElementById('ipChart'), {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: 'Occurrences',
+              data: values,
+              backgroundColor: '#ff6b6b',
+            },
+          ],
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: function (ctx) {
+                  return `${ctx.raw} times`;
+                },
+              },
+            },
+          },
+          scales: {
+            x: {
+              ticks: { color: '#f0f0f0' },
+              grid: { color: '#333' },
+            },
+            y: {
+              ticks: { color: '#f0f0f0' },
+              grid: { color: '#333' },
+            },
+          },
+        },
+      });
+    </script>
+
+    {% else %}
+    <p>No results available yet. Please upload a log file.</p>
+    {% endif %}
+  </body>
+</html>

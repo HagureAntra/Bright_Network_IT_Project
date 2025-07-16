@@ -1,0 +1,501 @@
+,ip,datetime,endpoint,user_agent,is_bot
+0,185.220.101.6,16.7.25,/login,Mozilla/5.0,FALSE
+1,8.8.8.8,16.7.25,/subscribe,Mozilla/5.0,FALSE
+2,172.16.0.3,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+3,66.249.66.1,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+4,94.142.241.111,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+5,45.134.144.200,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+6,192.168.1.1,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+7,192.168.1.1,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+8,8.8.8.8,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+9,66.249.66.1,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+10,203.0.113.4,16.7.25,/subscribe,Mozilla/5.0,FALSE
+11,8.8.8.8,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+12,203.0.113.4,16.7.25,/login,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+13,66.249.66.1,16.7.25,/robots.txt,curl/7.68.0,TRUE
+14,66.249.66.1,16.7.25,/newsletter,Mozilla/5.0,FALSE
+15,8.8.8.8,16.7.25,/subscribe,curl/7.68.0,TRUE
+16,66.249.66.1,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+17,172.16.0.3,16.7.25,/subscribe,Mozilla/5.0,FALSE
+18,172.16.0.3,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+19,185.220.101.6,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+20,45.134.144.200,16.7.25,/admin,Mozilla/5.0,FALSE
+21,8.8.8.8,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+22,172.16.0.3,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+23,66.249.66.1,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+24,192.168.1.1,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+25,66.249.66.1,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+26,94.142.241.111,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+27,198.51.100.5,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+28,203.0.113.4,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+29,66.249.66.1,16.7.25,/podcast/ep2,-,TRUE
+30,94.142.241.111,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+31,8.8.8.8,16.7.25,/admin,python-requests/2.25.1,TRUE
+32,192.168.1.1,16.7.25,/newsletter,Mozilla/5.0,FALSE
+33,94.142.241.111,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+34,203.0.113.4,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+35,198.51.100.5,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+36,8.8.8.8,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+37,203.0.113.4,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+38,192.168.1.1,16.7.25,/podcast/ep2,Mozilla/5.0,FALSE
+39,45.134.144.200,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+40,198.51.100.5,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+41,203.0.113.4,16.7.25,/podcast/ep2,-,TRUE
+42,192.168.1.1,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+43,94.142.241.111,16.7.25,/login,python-requests/2.25.1,TRUE
+44,185.220.101.6,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+45,172.16.0.3,16.7.25,/admin,-,TRUE
+46,10.0.0.2,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+47,45.134.144.200,16.7.25,/newsletter,-,TRUE
+48,10.0.0.2,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+49,8.8.8.8,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+50,66.249.66.1,16.7.25,/podcast/ep2,-,TRUE
+51,10.0.0.2,16.7.25,/logout,curl/7.68.0,TRUE
+52,10.0.0.2,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+53,45.134.144.200,16.7.25,/robots.txt,curl/7.68.0,TRUE
+54,10.0.0.2,16.7.25,/subscribe,curl/7.68.0,TRUE
+55,45.134.144.200,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+56,8.8.8.8,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+57,192.168.1.1,16.7.25,/login,python-requests/2.25.1,TRUE
+58,203.0.113.4,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+59,198.51.100.5,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+60,198.51.100.5,16.7.25,/login,python-requests/2.25.1,TRUE
+61,192.168.1.1,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+62,66.249.66.1,16.7.25,/login,python-requests/2.25.1,TRUE
+63,45.134.144.200,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+64,8.8.8.8,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+65,66.249.66.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+66,8.8.8.8,16.7.25,/newsletter,curl/7.68.0,TRUE
+67,94.142.241.111,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+68,185.220.101.6,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+69,10.0.0.2,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+70,185.220.101.6,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+71,8.8.8.8,16.7.25,/podcast/ep1,-,TRUE
+72,185.220.101.6,16.7.25,/logout,Mozilla/5.0,FALSE
+73,94.142.241.111,16.7.25,/subscribe,-,TRUE
+74,185.220.101.6,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+75,8.8.8.8,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+76,198.51.100.5,16.7.25,/admin,curl/7.68.0,TRUE
+77,10.0.0.2,16.7.25,/logout,-,TRUE
+78,94.142.241.111,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+79,8.8.8.8,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+80,10.0.0.2,16.7.25,/logout,-,TRUE
+81,185.220.101.6,16.7.25,/login,python-requests/2.25.1,TRUE
+82,66.249.66.1,16.7.25,/admin,python-requests/2.25.1,TRUE
+83,172.16.0.3,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+84,10.0.0.2,16.7.25,/logout,python-requests/2.25.1,TRUE
+85,94.142.241.111,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+86,45.134.144.200,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+87,203.0.113.4,16.7.25,/subscribe,Mozilla/5.0,FALSE
+88,8.8.8.8,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+89,203.0.113.4,16.7.25,/logout,-,TRUE
+90,172.16.0.3,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+91,45.134.144.200,16.7.25,/login,Mozilla/5.0,FALSE
+92,185.220.101.6,16.7.25,/subscribe,curl/7.68.0,TRUE
+93,94.142.241.111,16.7.25,/subscribe,-,TRUE
+94,10.0.0.2,16.7.25,/newsletter,Mozilla/5.0,FALSE
+95,94.142.241.111,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+96,8.8.8.8,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+97,172.16.0.3,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+98,10.0.0.2,16.7.25,/logout,Mozilla/5.0,FALSE
+99,66.249.66.1,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+100,66.249.66.1,16.7.25,/admin,-,TRUE
+101,172.16.0.3,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+102,45.134.144.200,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+103,198.51.100.5,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+104,172.16.0.3,16.7.25,/login,-,TRUE
+105,10.0.0.2,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+106,10.0.0.2,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+107,203.0.113.4,16.7.25,/login,python-requests/2.25.1,TRUE
+108,66.249.66.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+109,185.220.101.6,16.7.25,/subscribe,curl/7.68.0,TRUE
+110,45.134.144.200,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+111,185.220.101.6,16.7.25,/login,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+112,45.134.144.200,16.7.25,/admin,curl/7.68.0,TRUE
+113,8.8.8.8,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+114,94.142.241.111,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+115,192.168.1.1,16.7.25,/podcast/ep2,-,TRUE
+116,10.0.0.2,16.7.25,/podcast/ep3,-,TRUE
+117,94.142.241.111,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+118,203.0.113.4,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+119,185.220.101.6,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+120,198.51.100.5,16.7.25,/admin,Mozilla/5.0,FALSE
+121,198.51.100.5,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+122,172.16.0.3,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+123,192.168.1.1,16.7.25,/newsletter,-,TRUE
+124,10.0.0.2,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+125,198.51.100.5,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+126,94.142.241.111,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+127,45.134.144.200,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+128,203.0.113.4,16.7.25,/robots.txt,curl/7.68.0,TRUE
+129,185.220.101.6,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+130,198.51.100.5,16.7.25,/newsletter,Mozilla/5.0,FALSE
+131,192.168.1.1,16.7.25,/subscribe,curl/7.68.0,TRUE
+132,192.168.1.1,16.7.25,/podcast/ep1,-,TRUE
+133,203.0.113.4,16.7.25,/admin,Mozilla/5.0,FALSE
+134,8.8.8.8,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+135,8.8.8.8,16.7.25,/podcast/ep3,-,TRUE
+136,192.168.1.1,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+137,198.51.100.5,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+138,192.168.1.1,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+139,172.16.0.3,16.7.25,/newsletter,Mozilla/5.0,FALSE
+140,10.0.0.2,16.7.25,/subscribe,curl/7.68.0,TRUE
+141,45.134.144.200,16.7.25,/podcast/ep2,-,TRUE
+142,185.220.101.6,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+143,192.168.1.1,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+144,45.134.144.200,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+145,203.0.113.4,16.7.25,/podcast/ep2,-,TRUE
+146,185.220.101.6,16.7.25,/admin,-,TRUE
+147,198.51.100.5,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+148,172.16.0.3,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+149,94.142.241.111,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+150,192.168.1.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+151,203.0.113.4,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+152,203.0.113.4,16.7.25,/admin,Mozilla/5.0,FALSE
+153,185.220.101.6,16.7.25,/admin,curl/7.68.0,TRUE
+154,185.220.101.6,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+155,94.142.241.111,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+156,94.142.241.111,16.7.25,/login,curl/7.68.0,TRUE
+157,198.51.100.5,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+158,8.8.8.8,16.7.25,/podcast/ep2,-,TRUE
+159,198.51.100.5,16.7.25,/newsletter,curl/7.68.0,TRUE
+160,8.8.8.8,16.7.25,/login,-,TRUE
+161,66.249.66.1,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+162,192.168.1.1,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+163,8.8.8.8,16.7.25,/admin,-,TRUE
+164,198.51.100.5,16.7.25,/newsletter,Mozilla/5.0,FALSE
+165,198.51.100.5,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+166,172.16.0.3,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+167,66.249.66.1,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+168,203.0.113.4,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+169,66.249.66.1,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+170,45.134.144.200,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+171,192.168.1.1,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+172,192.168.1.1,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+173,94.142.241.111,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+174,94.142.241.111,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+175,10.0.0.2,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+176,10.0.0.2,16.7.25,/newsletter,-,TRUE
+177,45.134.144.200,16.7.25,/podcast/ep3,-,TRUE
+178,192.168.1.1,16.7.25,/admin,-,TRUE
+179,192.168.1.1,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+180,172.16.0.3,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+181,172.16.0.3,16.7.25,/robots.txt,curl/7.68.0,TRUE
+182,203.0.113.4,16.7.25,/logout,curl/7.68.0,TRUE
+183,66.249.66.1,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+184,10.0.0.2,16.7.25,/newsletter,curl/7.68.0,TRUE
+185,8.8.8.8,16.7.25,/newsletter,Mozilla/5.0,FALSE
+186,94.142.241.111,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+187,94.142.241.111,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+188,94.142.241.111,16.7.25,/robots.txt,curl/7.68.0,TRUE
+189,203.0.113.4,16.7.25,/subscribe,-,TRUE
+190,203.0.113.4,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+191,172.16.0.3,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+192,172.16.0.3,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+193,185.220.101.6,16.7.25,/subscribe,-,TRUE
+194,45.134.144.200,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+195,185.220.101.6,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+196,185.220.101.6,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+197,94.142.241.111,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+198,172.16.0.3,16.7.25,/robots.txt,curl/7.68.0,TRUE
+199,8.8.8.8,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+200,45.134.144.200,16.7.25,/login,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+201,172.16.0.3,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+202,198.51.100.5,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+203,66.249.66.1,16.7.25,/subscribe,-,TRUE
+204,66.249.66.1,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+205,45.134.144.200,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+206,192.168.1.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+207,8.8.8.8,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+208,45.134.144.200,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+209,198.51.100.5,16.7.25,/login,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+210,10.0.0.2,16.7.25,/podcast/ep3,-,TRUE
+211,203.0.113.4,16.7.25,/admin,python-requests/2.25.1,TRUE
+212,10.0.0.2,16.7.25,/admin,Mozilla/5.0,FALSE
+213,198.51.100.5,16.7.25,/newsletter,-,TRUE
+214,94.142.241.111,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+215,94.142.241.111,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+216,45.134.144.200,16.7.25,/admin,curl/7.68.0,TRUE
+217,10.0.0.2,16.7.25,/robots.txt,curl/7.68.0,TRUE
+218,192.168.1.1,16.7.25,/logout,-,TRUE
+219,45.134.144.200,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+220,172.16.0.3,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+221,45.134.144.200,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+222,203.0.113.4,16.7.25,/login,Mozilla/5.0,FALSE
+223,185.220.101.6,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+224,10.0.0.2,16.7.25,/robots.txt,curl/7.68.0,TRUE
+225,8.8.8.8,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+226,94.142.241.111,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+227,10.0.0.2,16.7.25,/login,curl/7.68.0,TRUE
+228,198.51.100.5,16.7.25,/logout,curl/7.68.0,TRUE
+229,198.51.100.5,16.7.25,/subscribe,curl/7.68.0,TRUE
+230,198.51.100.5,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+231,185.220.101.6,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+232,8.8.8.8,16.7.25,/logout,python-requests/2.25.1,TRUE
+233,172.16.0.3,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+234,203.0.113.4,16.7.25,/admin,-,TRUE
+235,66.249.66.1,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+236,172.16.0.3,16.7.25,/podcast/ep1,curl/7.68.0,TRUE
+237,66.249.66.1,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+238,10.0.0.2,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+239,172.16.0.3,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+240,8.8.8.8,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+241,45.134.144.200,16.7.25,/podcast/ep1,-,TRUE
+242,45.134.144.200,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+243,172.16.0.3,16.7.25,/subscribe,-,TRUE
+244,94.142.241.111,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+245,203.0.113.4,16.7.25,/newsletter,Mozilla/5.0,FALSE
+246,45.134.144.200,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+247,198.51.100.5,16.7.25,/robots.txt,-,TRUE
+248,185.220.101.6,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+249,198.51.100.5,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+250,203.0.113.4,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+251,94.142.241.111,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+252,94.142.241.111,16.7.25,/logout,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+253,198.51.100.5,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+254,172.16.0.3,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+255,94.142.241.111,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+256,185.220.101.6,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+257,172.16.0.3,16.7.25,/logout,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+258,45.134.144.200,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+259,66.249.66.1,16.7.25,/podcast/ep2,Mozilla/5.0,FALSE
+260,45.134.144.200,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+261,192.168.1.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+262,185.220.101.6,16.7.25,/subscribe,-,TRUE
+263,185.220.101.6,16.7.25,/robots.txt,-,TRUE
+264,203.0.113.4,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+265,8.8.8.8,16.7.25,/robots.txt,curl/7.68.0,TRUE
+266,192.168.1.1,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+267,66.249.66.1,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+268,8.8.8.8,16.7.25,/login,python-requests/2.25.1,TRUE
+269,8.8.8.8,16.7.25,/login,-,TRUE
+270,198.51.100.5,16.7.25,/logout,-,TRUE
+271,172.16.0.3,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+272,66.249.66.1,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+273,203.0.113.4,16.7.25,/admin,curl/7.68.0,TRUE
+274,198.51.100.5,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+275,8.8.8.8,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+276,45.134.144.200,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+277,203.0.113.4,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+278,185.220.101.6,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+279,192.168.1.1,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+280,45.134.144.200,16.7.25,/admin,curl/7.68.0,TRUE
+281,172.16.0.3,16.7.25,/podcast/ep2,Mozilla/5.0,FALSE
+282,192.168.1.1,16.7.25,/logout,-,TRUE
+283,203.0.113.4,16.7.25,/logout,curl/7.68.0,TRUE
+284,185.220.101.6,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+285,45.134.144.200,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+286,8.8.8.8,16.7.25,/robots.txt,-,TRUE
+287,198.51.100.5,16.7.25,/logout,-,TRUE
+288,94.142.241.111,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+289,185.220.101.6,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+290,192.168.1.1,16.7.25,/login,python-requests/2.25.1,TRUE
+291,192.168.1.1,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+292,10.0.0.2,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+293,203.0.113.4,16.7.25,/login,-,TRUE
+294,94.142.241.111,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+295,172.16.0.3,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+296,192.168.1.1,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+297,185.220.101.6,16.7.25,/subscribe,Mozilla/5.0,FALSE
+298,192.168.1.1,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+299,172.16.0.3,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+300,198.51.100.5,16.7.25,/logout,-,TRUE
+301,192.168.1.1,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+302,185.220.101.6,16.7.25,/logout,curl/7.68.0,TRUE
+303,192.168.1.1,16.7.25,/subscribe,curl/7.68.0,TRUE
+304,66.249.66.1,16.7.25,/login,Mozilla/5.0,FALSE
+305,94.142.241.111,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+306,192.168.1.1,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+307,10.0.0.2,16.7.25,/logout,curl/7.68.0,TRUE
+308,203.0.113.4,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+309,198.51.100.5,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+310,203.0.113.4,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+311,66.249.66.1,16.7.25,/newsletter,-,TRUE
+312,172.16.0.3,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+313,172.16.0.3,16.7.25,/login,curl/7.68.0,TRUE
+314,185.220.101.6,16.7.25,/robots.txt,-,TRUE
+315,198.51.100.5,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+316,8.8.8.8,16.7.25,/logout,curl/7.68.0,TRUE
+317,198.51.100.5,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+318,203.0.113.4,16.7.25,/logout,python-requests/2.25.1,TRUE
+319,172.16.0.3,16.7.25,/newsletter,Mozilla/5.0,FALSE
+320,45.134.144.200,16.7.25,/robots.txt,-,TRUE
+321,45.134.144.200,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+322,203.0.113.4,16.7.25,/podcast/ep3,-,TRUE
+323,172.16.0.3,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+324,66.249.66.1,16.7.25,/newsletter,-,TRUE
+325,185.220.101.6,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+326,198.51.100.5,16.7.25,/podcast/ep1,-,TRUE
+327,10.0.0.2,16.7.25,/logout,-,TRUE
+328,10.0.0.2,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+329,10.0.0.2,16.7.25,/logout,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+330,198.51.100.5,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+331,94.142.241.111,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+332,8.8.8.8,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+333,192.168.1.1,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+334,45.134.144.200,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+335,198.51.100.5,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+336,66.249.66.1,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+337,185.220.101.6,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+338,45.134.144.200,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+339,94.142.241.111,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+340,8.8.8.8,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+341,172.16.0.3,16.7.25,/login,Mozilla/5.0,FALSE
+342,198.51.100.5,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+343,8.8.8.8,16.7.25,/newsletter,-,TRUE
+344,45.134.144.200,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+345,10.0.0.2,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+346,203.0.113.4,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+347,172.16.0.3,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+348,66.249.66.1,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+349,203.0.113.4,16.7.25,/logout,python-requests/2.25.1,TRUE
+350,192.168.1.1,16.7.25,/admin,python-requests/2.25.1,TRUE
+351,203.0.113.4,16.7.25,/logout,-,TRUE
+352,203.0.113.4,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+353,66.249.66.1,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+354,172.16.0.3,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+355,45.134.144.200,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+356,192.168.1.1,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+357,45.134.144.200,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+358,203.0.113.4,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+359,203.0.113.4,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+360,198.51.100.5,16.7.25,/admin,Mozilla/5.0,FALSE
+361,172.16.0.3,16.7.25,/subscribe,-,TRUE
+362,172.16.0.3,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+363,10.0.0.2,16.7.25,/podcast/ep2,Mozilla/5.0,FALSE
+364,10.0.0.2,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+365,10.0.0.2,16.7.25,/robots.txt,-,TRUE
+366,94.142.241.111,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+367,192.168.1.1,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+368,192.168.1.1,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+369,198.51.100.5,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+370,10.0.0.2,16.7.25,/podcast/ep3,-,TRUE
+371,8.8.8.8,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+372,192.168.1.1,16.7.25,/subscribe,Mozilla/5.0,FALSE
+373,172.16.0.3,16.7.25,/podcast/ep1,Mozilla/5.0,FALSE
+374,185.220.101.6,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+375,203.0.113.4,16.7.25,/podcast/ep1,-,TRUE
+376,172.16.0.3,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+377,10.0.0.2,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+378,8.8.8.8,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+379,172.16.0.3,16.7.25,/admin,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+380,192.168.1.1,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+381,45.134.144.200,16.7.25,/logout,-,TRUE
+382,192.168.1.1,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+383,185.220.101.6,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+384,10.0.0.2,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+385,8.8.8.8,16.7.25,/login,python-requests/2.25.1,TRUE
+386,172.16.0.3,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+387,8.8.8.8,16.7.25,/podcast/ep2,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+388,66.249.66.1,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+389,66.249.66.1,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+390,8.8.8.8,16.7.25,/login,python-requests/2.25.1,TRUE
+391,45.134.144.200,16.7.25,/podcast/ep2,Mozilla/5.0,FALSE
+392,8.8.8.8,16.7.25,/podcast/ep2,-,TRUE
+393,192.168.1.1,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+394,45.134.144.200,16.7.25,/podcast/ep1,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+395,198.51.100.5,16.7.25,/podcast/ep3,-,TRUE
+396,198.51.100.5,16.7.25,/subscribe,Mozilla/5.0,FALSE
+397,172.16.0.3,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+398,94.142.241.111,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+399,45.134.144.200,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+400,172.16.0.3,16.7.25,/podcast/ep3,Mozilla/5.0,FALSE
+401,198.51.100.5,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+402,192.168.1.1,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+403,66.249.66.1,16.7.25,/subscribe,-,TRUE
+404,45.134.144.200,16.7.25,/logout,curl/7.68.0,TRUE
+405,10.0.0.2,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+406,198.51.100.5,16.7.25,/subscribe,Mozilla/5.0,FALSE
+407,185.220.101.6,16.7.25,/robots.txt,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+408,172.16.0.3,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+409,172.16.0.3,16.7.25,/login,curl/7.68.0,TRUE
+410,172.16.0.3,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+411,8.8.8.8,16.7.25,/admin,python-requests/2.25.1,TRUE
+412,45.134.144.200,16.7.25,/logout,python-requests/2.25.1,TRUE
+413,45.134.144.200,16.7.25,/podcast/ep2,-,TRUE
+414,94.142.241.111,16.7.25,/podcast/ep1,-,TRUE
+415,192.168.1.1,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+416,66.249.66.1,16.7.25,/robots.txt,-,TRUE
+417,8.8.8.8,16.7.25,/logout,curl/7.68.0,TRUE
+418,192.168.1.1,16.7.25,/podcast/ep1,-,TRUE
+419,198.51.100.5,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+420,185.220.101.6,16.7.25,/login,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+421,45.134.144.200,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+422,8.8.8.8,16.7.25,/newsletter,curl/7.68.0,TRUE
+423,45.134.144.200,16.7.25,/login,Mozilla/5.0,FALSE
+424,45.134.144.200,16.7.25,/admin,curl/7.68.0,TRUE
+425,10.0.0.2,16.7.25,/admin,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+426,45.134.144.200,16.7.25,/logout,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+427,185.220.101.6,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+428,8.8.8.8,16.7.25,/logout,curl/7.68.0,TRUE
+429,66.249.66.1,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+430,172.16.0.3,16.7.25,/admin,curl/7.68.0,TRUE
+431,10.0.0.2,16.7.25,/podcast/ep3,-,TRUE
+432,45.134.144.200,16.7.25,/podcast/ep3,-,TRUE
+433,203.0.113.4,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+434,66.249.66.1,16.7.25,/subscribe,Mozilla/5.0,FALSE
+435,185.220.101.6,16.7.25,/subscribe,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+436,94.142.241.111,16.7.25,/newsletter,curl/7.68.0,TRUE
+437,192.168.1.1,16.7.25,/admin,-,TRUE
+438,45.134.144.200,16.7.25,/admin,Mozilla/5.0,FALSE
+439,66.249.66.1,16.7.25,/podcast/ep3,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+440,94.142.241.111,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+441,66.249.66.1,16.7.25,/subscribe,curl/7.68.0,TRUE
+442,10.0.0.2,16.7.25,/admin,python-requests/2.25.1,TRUE
+443,192.168.1.1,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+444,8.8.8.8,16.7.25,/subscribe,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+445,8.8.8.8,16.7.25,/newsletter,curl/7.68.0,TRUE
+446,203.0.113.4,16.7.25,/login,python-requests/2.25.1,TRUE
+447,185.220.101.6,16.7.25,/login,-,TRUE
+448,45.134.144.200,16.7.25,/robots.txt,python-requests/2.25.1,TRUE
+449,8.8.8.8,16.7.25,/newsletter,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+450,185.220.101.6,16.7.25,/admin,Mozilla/5.0,FALSE
+451,66.249.66.1,16.7.25,/login,-,TRUE
+452,185.220.101.6,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+453,8.8.8.8,16.7.25,/newsletter,Mozilla/5.0,FALSE
+454,94.142.241.111,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+455,8.8.8.8,16.7.25,/robots.txt,-,TRUE
+456,198.51.100.5,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+457,185.220.101.6,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
+458,10.0.0.2,16.7.25,/logout,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+459,172.16.0.3,16.7.25,/logout,-,TRUE
+460,8.8.8.8,16.7.25,/admin,curl/7.68.0,TRUE
+461,198.51.100.5,16.7.25,/robots.txt,Mozilla/5.0,FALSE
+462,10.0.0.2,16.7.25,/subscribe,Mozilla/5.0,FALSE
+463,45.134.144.200,16.7.25,/podcast/ep1,curl/7.68.0,TRUE
+464,203.0.113.4,16.7.25,/logout,-,TRUE
+465,45.134.144.200,16.7.25,/subscribe,-,TRUE
+466,203.0.113.4,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+467,66.249.66.1,16.7.25,/podcast/ep2,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+468,45.134.144.200,16.7.25,/logout,curl/7.68.0,TRUE
+469,94.142.241.111,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+470,94.142.241.111,16.7.25,/podcast/ep2,python-requests/2.25.1,TRUE
+471,45.134.144.200,16.7.25,/subscribe,python-requests/2.25.1,TRUE
+472,8.8.8.8,16.7.25,/podcast/ep1,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+473,203.0.113.4,16.7.25,/newsletter,curl/7.68.0,TRUE
+474,185.220.101.6,16.7.25,/logout,Mozilla/5.0,FALSE
+475,45.134.144.200,16.7.25,/logout,curl/7.68.0,TRUE
+476,94.142.241.111,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+477,172.16.0.3,16.7.25,/robots.txt,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+478,8.8.8.8,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+479,94.142.241.111,16.7.25,/podcast/ep2,-,TRUE
+480,45.134.144.200,16.7.25,/newsletter,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),TRUE
+481,185.220.101.6,16.7.25,/logout,Mozilla/5.0,FALSE
+482,66.249.66.1,16.7.25,/newsletter,curl/7.68.0,TRUE
+483,198.51.100.5,16.7.25,/podcast/ep1,curl/7.68.0,TRUE
+484,203.0.113.4,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+485,203.0.113.4,16.7.25,/logout,python-requests/2.25.1,TRUE
+486,172.16.0.3,16.7.25,/logout,python-requests/2.25.1,TRUE
+487,185.220.101.6,16.7.25,/podcast/ep1,python-requests/2.25.1,TRUE
+488,45.134.144.200,16.7.25,/robots.txt,-,TRUE
+489,185.220.101.6,16.7.25,/newsletter,python-requests/2.25.1,TRUE
+490,198.51.100.5,16.7.25,/podcast/ep3,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+491,10.0.0.2,16.7.25,/robots.txt,-,TRUE
+492,185.220.101.6,16.7.25,/subscribe,-,TRUE
+493,203.0.113.4,16.7.25,/robots.txt,-,TRUE
+494,203.0.113.4,16.7.25,/podcast/ep3,curl/7.68.0,TRUE
+495,172.16.0.3,16.7.25,/login,Googlebot/2.1 (+http://www.google.com/bot.html),TRUE
+496,94.142.241.111,16.7.25,/login,curl/7.68.0,TRUE
+497,8.8.8.8,16.7.25,/podcast/ep2,curl/7.68.0,TRUE
+498,8.8.8.8,16.7.25,/podcast/ep3,-,TRUE
+499,192.168.1.1,16.7.25,/podcast/ep3,python-requests/2.25.1,TRUE
