@@ -1,4 +1,6 @@
+[![Deploy on Render](https://img.shields.io/badge/Deployed%20on-Render-4dba87?style=for-the-badge&logo=render)](https://bright-network-it-project.onrender.com)
 
+Bright Networks IT Project - Traffic Analysis & Bot Mitigation
 
 Overview:
 This project analyzes synthetic server log data to detect suspicious or bot-like traffic patterns, such as high request frequency and non-browser user agents. It flags potential bot IPs and outputs them for further action.
@@ -36,4 +38,3 @@ Assumptions:
 
 Author: [Your Name]
 For: Bright Networks - IT & Software Experience Project
-
