@@ -1,34 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Meta info and page setup -->
     <meta charset="UTF-8" />
     <title>Suspicious IP Report</title>
+
+    <!-- Favicon for browser tab -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Load Chart.js library for data visualization -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Inline CSS for styling the dark-themed report page -->
     <style>
       body {
-        background-color: #121212;
-        color: #f0f0f0;
+        background-color: #121212; /* Dark background for dark mode */
+        color: #f0f0f0; /* Light text for contrast */
         font-family: Arial, sans-serif;
         padding: 2rem;
       }
+
       h1,
       h2 {
-        color: #ff6b6b;
+        color: #ff6b6b; /* Red accent color for headings */
       }
+
       ul {
         list-style: none;
         padding-left: 0;
       }
+
       li {
         padding: 6px;
         margin-bottom: 5px;
-        background-color: #1e1e1e;
-        border-left: 5px solid red;
+        background-color: #1e1e1e; /* Dark list item background */
+        border-left: 5px solid red; /* Red visual indicator for each IP */
         color: #ff5c5c;
         font-weight: bold;
-        box-shadow: 0 2px 4px rgba(255, 0, 0, 0.2);
+        box-shadow: 0 2px 4px rgba(255, 0, 0, 0.2); /* Subtle red shadow */
       }
+
       button {
         padding: 10px 20px;
         background-color: #ff6b6b;
@@ -38,12 +49,15 @@
         margin-right: 10px;
         cursor: pointer;
       }
+
       button:hover {
         background-color: #ff4b4b;
       }
+
       .nav {
-        margin-top: 2rem;
+        margin-top: 2rem; /* Space above navigation buttons */
       }
+
       #chart-container {
         background-color: #1e1e1e;
         padding: 20px;
@@ -52,39 +66,53 @@
       }
     </style>
   </head>
+
   <body>
+    <!-- Main heading -->
     <h1>Suspicious IP Report</h1>
 
+    <!-- Check if there are any results passed from the backend -->
     {% if results %}
     <div id="chart-container">
       <h2>Top Suspicious IPs</h2>
+      <!-- Placeholder for the bar chart -->
       <canvas id="ipChart"></canvas>
     </div>
 
+    <!-- Render each suspicious IP in a styled list -->
     <ul>
       {% for ip in results %}
       <li>{{ ip }}</li>
       {% endfor %}
     </ul>
 
+    <!-- Navigation section with buttons to download or go back -->
     <div class="nav">
       <a href="/download/csv"><button>Download CSV File</button></a>
       <a href="/"><button>Back to Upload</button></a>
     </div>
+
+    <!-- Embed the results in JSON format to be read by JavaScript -->
     <script id="ip-data" type="application/json">
       {{ results|tojson }}
     </script>
 
+    <!-- JavaScript for rendering the Chart.js bar chart -->
     <script>
+      // Parse embedded IP data from JSON script block
       const ipData = JSON.parse(document.getElementById('ip-data').textContent);
+
+      // Count occurrences of each IP
       const ipCounts = {};
       ipData.forEach((ip) => {
         ipCounts[ip] = (ipCounts[ip] || 0) + 1;
       });
 
+      // Separate the keys (IPs) and values (counts) for chart input
       const labels = Object.keys(ipCounts);
       const values = Object.values(ipCounts);
 
+      // Initialize a horizontal bar chart
       new Chart(document.getElementById('ipChart'), {
         type: 'bar',
         data: {
@@ -98,14 +126,14 @@
           ],
         },
         options: {
-          indexAxis: 'y',
+          indexAxis: 'y', // Horizontal bars
           responsive: true,
           plugins: {
             legend: { display: false },
             tooltip: {
               callbacks: {
                 label: function (ctx) {
-                  return `${ctx.raw} times`;
+                  return `${ctx.raw} times`; // Custom tooltip label
                 },
               },
             },
@@ -125,6 +153,7 @@
     </script>
 
     {% else %}
+    <!-- Fallback message if no results are available -->
     <p>No results available yet. Please upload a log file.</p>
     {% endif %}
   </body>

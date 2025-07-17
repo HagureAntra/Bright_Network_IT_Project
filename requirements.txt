@@ -1,21 +1,83 @@
 blinker==1.9.0
+# Used internally by Flask for signal/event handling (e.g., template rendering).
+# We didn’t use this directly, but Flask depends on it.
+
 certifi==2025.7.14
+# Provides CA certificates for HTTPS requests.
+# Used by `requests` to securely connect during GeoIP lookups.
+
 charset-normalizer==3.4.2
+# Auto-detects character encoding in HTTP responses.
+# Required by `requests`.
+
 click==8.2.1
+# Command-line utility used by Flask for CLI commands like `flask run`.
+# Not used directly in our code.
+
 colorama==0.4.6
+# Adds color to CLI output (mostly on Windows).
+# Indirect dependency, not used explicitly.
+
 Flask==3.1.1
+# The web framework used to build the application.
+# Used to define routes (/upload, /report), serve templates, and handle file uploads.
+
 idna==3.10
+# Enables support for internationalized domain names.
+# Required by `requests`.
+
 itsdangerous==2.2.0
+# Used by Flask to sign cookies and session data securely.
+# Not used directly in our project.
+
 Jinja2==3.1.6
+# Template engine used by Flask.
+# Used for rendering `report.html` with dynamic content like results and charts.
+
 MarkupSafe==3.0.2
+# Ensures safe escaping of HTML/JavaScript in templates.
+# Required by Jinja2.
+
 numpy==1.24.4
+# Core numerical computing library.
+# Used for processing IP frequency data before visualization.
+
 pandas==2.3.1
+# Data analysis and manipulation library.
+# Used to read uploaded CSVs, group data, detect bot patterns, and summarize results.
+
 python-dateutil==2.9.0.post0
+# Provides robust date/time parsing and handling.
+# Used indirectly by pandas for timestamp parsing.
+
 pytz==2025.2
+# Timezone support for working with datetime objects.
+# Used by pandas for converting or aligning timestamps.
+
 requests==2.32.4
+# HTTP client library.
+# Used to perform GeoIP lookups and possibly fetch other remote data.
+
 setuptools==80.9.0
+# Required for packaging and installation tasks.
+# Not used at runtime but important for environment setup.
+
 six==1.17.0
+# Python 2/3 compatibility library.
+# Required by `python-dateutil`.
+
 tzdata==2025.2
+# Provides timezone data required by `pytz`.
+# Used for timestamp normalization.
+
 urllib3==2.5.0
+# Underlying HTTP library used by `requests`.
+# Handles connection pooling and retries.
+
 Werkzeug==3.1.3
+# Core HTTP request/response library used by Flask.
+# Handles routing, requests, and server functions.
+
 wheel==0.45.1
+# Helps build and install packages as wheel archives.
+# Useful during deployment or Docker build steps.
